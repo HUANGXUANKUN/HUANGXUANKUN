@@ -20,4 +20,4 @@ Learning all about:
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 
-[![XUAN KUN's github stats](https://github-readme-stats.vercel.app/api?username=HUANGXUANKUN&theme=dark&show_icons=true)](https://github.com/HUANGXUANKUN)
+[![HUANG XUAN KUN's github stats](https://github-readme-stats.vercel.app/api?username=HUANGXUANKUN&theme=dark&show_icons=true)](https://github.com/HUANGXUANKUN)

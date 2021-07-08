@@ -19,3 +19,5 @@ Learning all about:
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+
+[![XUAN KUN's github stats](https://github-readme-stats.vercel.app/api?username=HUANGXUANKUN&theme=dark&show_icons=true)](https://github.com/HUANGXUANKUN)

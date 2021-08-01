@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a fresh graduate from NUS Computing, seeking for developer job in Singapore.
+I am a fresh graduate from NUS Computer Engineering, seeking for a developer job in Singapore.
 
 Connect with me here:
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xuan-kun-huang-80961b148/)](https://www.linkedin.com/in/xuan-kun-huang-80961b148/) 
